@@ -1,0 +1,12 @@
+.env
+.vscode
+node_modules
+dist/bundle*
+dist/extras.*
+sitespeed-result
+.sonar/
+newrelic_agent.log
+log
+.DS_Store
+package-lock.json
+.idea
